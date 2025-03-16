@@ -6,7 +6,9 @@ a space engineer plugin for fixing most conveyor  problems in an instant, mainly
 i wrote this plugin because i was tired of spending hours correctly orienting and placing conveyors without leaving open connections. 
 
 this plugin replaces ANY conveyor even misoriented or wrong type with the AQD Armored conveyors mod depending on how many connections are connected, so for now this mod is required
+
 works good for now but more testing is needed, and i will probably add more features later like pipes, tubes, buster block conveyors etc...
+
 This means that when designing your grid you can use any conveyor you want without having to think about orientation or type, as long as they are touching this will work
 
 before:
@@ -18,9 +20,13 @@ after:
 
 how to:
 
+
 you need sepluginloader 
+
 download the dll and put it in you local plugin folder
+
 start the game and select the plugin from the plugin menu ingame
+
 When in creative, look at any grid, type /reset in chat to reset all conveyors, then /replace to replace all conveyors with correct armored ones
 
 
